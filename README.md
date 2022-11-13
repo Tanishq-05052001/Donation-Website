@@ -13,4 +13,4 @@ This project is coded using `HTML`, `CSS`, `Bootstrap` and `javaScript`
 
 [Github] https://github.com/Tanishq-05052001/Donation-Website
 
-[Website Link] https://purple-cliff-09c233610.1.azurestaticapps.net
+[Website Link] https://calm-bay-02e399000.2.azurestaticapps.net
