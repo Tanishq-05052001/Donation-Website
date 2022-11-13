@@ -11,6 +11,6 @@ This project is coded using `HTML`, `CSS`, `Bootstrap` and `javaScript`
 [LinkedIn] https://www.linkedin.com/in/tanishq-mahajan-b06997208/
 
 
-[Github] https://github.com/Tanishq-2001/WebpageForDonation
+[Github] https://github.com/Tanishq-05052001/Donation-Website
 
 [Website Link] https://purple-cliff-09c233610.1.azurestaticapps.net
